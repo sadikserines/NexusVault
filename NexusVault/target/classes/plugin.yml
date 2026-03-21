@@ -1,0 +1,13 @@
+name: NexusVault
+version: '1.0'
+main: me.sase.nexusVault.NexusVault
+api-version: '1.21'
+authors: [ Auzaels ]
+description: Farm tracking for automated farms and an easy sales add-on for the EchonomyShopGUI store.
+depend: [Vault, EconomyShopGUI]
+softdepend: [GriefPrevention]
+
+commands:
+  nv:
+    description: Opens the Nexus Vault virtual storage.
+    aliases: [nexusvault]
