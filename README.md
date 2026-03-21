@@ -40,8 +40,14 @@ Nexus Vault requires the following plugins to operate at maximum capacity:
 ## 🛠️ How to Play
 
 1. **Crafting the Nexus Box:** Place 4x Gold Ingots in the corners, 4x Netherite Blocks in the center of the Gold Ingots and a Chest in the middle inside a Crafting Table.
+
+   <img width="780" height="427" alt="image" src="https://github.com/user-attachments/assets/2ee9f22d-22b4-476d-877e-29bce81da0d1" />
+   
 2. **Storage Automation:** Place the Nexus Box down and route hoppers into it. It will securely pull items into your virtual UI.
 3. **Management:** Right-click the physical box to toggle **Auto-Sell** settings. Left-click inside the GUI to withdraw items, or right-click to sell them manually.
+
+   <img width="945" height="330" alt="image" src="https://github.com/user-attachments/assets/e39a3e87-9e79-4204-9e3f-8764d54a1f6e" />
+
 
 ---
 *Developed with performance, security, and modern server architecture in mind.*
