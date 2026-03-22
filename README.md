@@ -1,4 +1,4 @@
-# 📦 Nexus Vault v1.0
+# 📦 Nexus Vault
 
 **Nexus Vault** is an advanced, high-performance, and deeply secure virtual storage and auto-sell plugin designed for professional Spigot/PaperMC servers. 
 
@@ -8,8 +8,17 @@ Unlike traditional storage plugins that suffer from severe I/O latency and lag, 
 
 * **⚡ Zero-Lag Caching Architecture:** All hopper extractions and database queries are processed instantly via server RAM. Data is securely flushed to the disk asynchronously via automated 5-minute Auto-Save intervals, completely preventing disk lag.
 * **🛒 Dynamic GUI & Pagination:** A beautifully designed interface where players can manage their infinite storage. Fully supports automated pagination handling over 36+ unique item variants.
+
+  <img width="690" height="503" alt="image" src="https://github.com/user-attachments/assets/e7aa3dc3-3bcd-43d6-96d9-f76fc19374ab" />
+
 * **⚙️ Advanced Action Menus:** Integrated transaction GUIs allowing players to precisely alter their withdraw or sell amounts using `1, 16, 32, or x64 (Stack)` visual modifiers.
+
+  <img width="676" height="499" alt="image" src="https://github.com/user-attachments/assets/72d3f522-b0b1-41a9-939f-2c4e9ce0b34a" />
+
 * **💰 Integrated Auto-Sell Mechanics:** Players can right-click their physical "Nexus Box" to toggle the Auto-Sell feature. When enabled, items injected via hoppers bypass the vault and are instantly liquidated based on the server's dynamic economy.
+
+  <img width="722" height="289" alt="image" src="https://github.com/user-attachments/assets/11a09c37-54c1-4d25-b46a-701ed7bfa1e7" />
+   
 * **🛡️ Bulletproof Anti-Dupe:** Hardcoded constraints prevent GUI overlap exploits, shift-click vulnerabilities, and guarantee transactional integrity before dropping or withdrawing items.
 * **🔒 GriefPrevention Support:** Natively hooks into GriefPrevention. Players are strictly prevented from deploying Nexus Boxes in claims they do not own, protecting your server's territorial integrity.
 
@@ -44,9 +53,10 @@ Nexus Vault requires the following plugins to operate at maximum capacity:
    <img width="780" height="427" alt="image" src="https://github.com/user-attachments/assets/2ee9f22d-22b4-476d-877e-29bce81da0d1" />
    
 2. **Storage Automation:** Place the Nexus Box down and route hoppers into it. It will securely pull items into your virtual UI.
-3. **Management:** Right-click the physical box to toggle **Auto-Sell** settings. Left-click inside the GUI to withdraw items, or right-click to sell them manually.
+3. **Management:** Right-click the physical box to toggle **Auto-Sell** settings.
 
-   <img width="945" height="330" alt="image" src="https://github.com/user-attachments/assets/e39a3e87-9e79-4204-9e3f-8764d54a1f6e" />
+   <img width="722" height="289" alt="image" src="https://github.com/user-attachments/assets/11a09c37-54c1-4d25-b46a-701ed7bfa1e7" />
+
 
 
 ---
